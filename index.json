@@ -1,0 +1,50 @@
+[
+ {
+  "date": "2026-10-25",
+  "home_marked": true,
+  "plates": [
+   {
+    "file": "optical_newest.jpg",
+    "raw": "raw/optical_newest.png",
+    "sensor": "Sentinel-2",
+    "time": "2026-10-22T18:50:14.021000+00:00",
+    "clear": 0.309,
+    "bounds": [
+     700639.58,
+     5656115.24,
+     706179.58,
+     5658275.24
+    ],
+    "crs": "EPSG:32611"
+   },
+   {
+    "file": "optical_clear.jpg",
+    "raw": "raw/optical_clear.png",
+    "sensor": "Sentinel-2",
+    "time": "2026-10-12T18:50:13.088000+00:00",
+    "clear": 1.0,
+    "bounds": [
+     700639.58,
+     5656115.24,
+     706179.58,
+     5658275.24
+    ],
+    "crs": "EPSG:32611"
+   },
+   {
+    "file": "radar.jpg",
+    "raw": "raw/radar.png",
+    "sensor": "Sentinel-1",
+    "label": "Sentinel-1 VV 24 Oct 2026 01:21 UTC",
+    "bounds": [
+     279932.47,
+     5656668.15,
+     285482.47,
+     5658848.15
+    ],
+    "crs": "EPSG:32612"
+   }
+  ],
+  "thermal_24h": 0
+ }
+]
