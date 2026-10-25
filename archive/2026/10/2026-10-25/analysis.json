@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
  "kind": "Daily read (automated)",
- "generated_utc": "2026-10-25T23:53+00:00",
+ "generated_utc": "2026-10-25T23:56+00:00",
  "optical": {
   "newest_clear": "2026-10-12T18:50+00:00",
   "scene": "S2B_11UPS_20261012_0_L2A",
@@ -16,6 +16,9 @@
   "blocks_changed": 14,
   "clusters": [
    {
+    "id": "O1",
+    "r": 20.0,
+    "c": 11.0,
     "blocks": 3,
     "area_ha": 3,
     "lat": 51.02212,
@@ -24,6 +27,9 @@
     "near": "Bessborough Drive SW"
    },
    {
+    "id": "O2",
+    "r": 4.5,
+    "c": 52.0,
     "blocks": 2,
     "area_ha": 2,
     "lat": 51.03459,
@@ -32,6 +38,9 @@
     "near": "22 Avenue SW"
    },
    {
+    "id": "O3",
+    "r": 2.0,
+    "c": 48.0,
     "blocks": 1,
     "area_ha": 1,
     "lat": 51.03698,
@@ -40,6 +49,9 @@
     "near": "18 Avenue SW"
    },
    {
+    "id": "O4",
+    "r": 4.0,
+    "c": 20.0,
     "blocks": 1,
     "area_ha": 1,
     "lat": 51.03617,
@@ -48,6 +60,9 @@
     "near": "20 Avenue SW"
    },
    {
+    "id": "O5",
+    "r": 10.0,
+    "c": 26.0,
     "blocks": 1,
     "area_ha": 1,
     "lat": 51.03057,
@@ -67,6 +82,9 @@
   "darker": 1,
   "clusters": [
    {
+    "id": "R1",
+    "r": 15.0,
+    "c": 29.0,
     "blocks": 1,
     "db": -3.0,
     "lat": 51.02598,
@@ -150,7 +168,9 @@
  "headline": "Localised change flagged \u2014 see blocks.",
  "bullets": [
   "Optical: 14 of 1096 100 m blocks changed between 2026-09-22 and 2026-10-12; largest patch 3 ha, 1.2 km S of the Lair near Bessborough Drive SW.",
+  "Optical patches: O1 1.2 km S (Bessborough Drive SW), 3 ha; O2 4.5 km E (22 Avenue SW), 2 ha; O3 4.2 km E (18 Avenue SW), 1 ha; O4 1.4 km E (20 Avenue SW), 1 ha; O5 1.9 km E (26 Avenue SW), 1 ha.",
   "Radar: 1 blocks changed by more than 3 dB (0 brighter, 1 darker) between 2026-10-12 and 2026-10-24; strongest patch 2.3 km E of the Lair near 30 Avenue SW (-3.0 dB). Brighter usually means new hard structure, scaffolding, vehicles or wet ground; darker means something removed or smoother/drier surface.",
+  "Radar patches: R1 2.3 km E (30 Avenue SW), -3.0 dB.",
   "Weather, last 7 days: -3 to 20 \u00b0C, 12.5 mm precipitation incl. 6.0 cm snow; max gust 66 km/h.",
   "Thermal: 0 satellite fire detections in the box in the last 24 h."
  ],

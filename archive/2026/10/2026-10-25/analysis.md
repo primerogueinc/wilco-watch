@@ -5,6 +5,8 @@
 **Localised change flagged — see blocks.**
 
 - Optical: 14 of 1096 100 m blocks changed between 2026-09-22 and 2026-10-12; largest patch 3 ha, 1.2 km S of the Lair near Bessborough Drive SW.
+- Optical patches: O1 1.2 km S (Bessborough Drive SW), 3 ha; O2 4.5 km E (22 Avenue SW), 2 ha; O3 4.2 km E (18 Avenue SW), 1 ha; O4 1.4 km E (20 Avenue SW), 1 ha; O5 1.9 km E (26 Avenue SW), 1 ha.
 - Radar: 1 blocks changed by more than 3 dB (0 brighter, 1 darker) between 2026-10-12 and 2026-10-24; strongest patch 2.3 km E of the Lair near 30 Avenue SW (-3.0 dB). Brighter usually means new hard structure, scaffolding, vehicles or wet ground; darker means something removed or smoother/drier surface.
+- Radar patches: R1 2.3 km E (30 Avenue SW), -3.0 dB.
 - Weather, last 7 days: -3 to 20 °C, 12.5 mm precipitation incl. 6.0 cm snow; max gust 66 km/h.
 - Thermal: 0 satellite fire detections in the box in the last 24 h.
