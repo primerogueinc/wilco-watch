@@ -42,7 +42,21 @@
     5658848.15
    ],
    "crs": "EPSG:32612"
+  },
+  {
+   "file": "change.jpg",
+   "sensor": "Change read",
+   "label": "optical red \u00b7 radar cyan"
   }
  ],
- "thermal_24h": 0
+ "thermal_24h": 0,
+ "read": {
+  "headline": "Localised change flagged \u2014 see blocks.",
+  "bullets": [
+   "Optical: 14 of 1096 100 m blocks changed between 2026-09-22 and 2026-10-12; largest patch 3 ha, 1.2 km S of the Lair near Bessborough Drive SW.",
+   "Radar: 1 blocks changed by more than 3 dB (0 brighter, 1 darker) between 2026-10-12 and 2026-10-24; strongest patch 2.3 km E of the Lair near 30 Avenue SW (-3.0 dB). Brighter usually means new hard structure, scaffolding, vehicles or wet ground; darker means something removed or smoother/drier surface.",
+   "Weather, last 7 days: -3 to 20 \u00b0C, 12.5 mm precipitation incl. 6.0 cm snow; max gust 66 km/h.",
+   "Thermal: 0 satellite fire detections in the box in the last 24 h."
+  ]
+ }
 }
