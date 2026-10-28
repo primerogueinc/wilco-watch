@@ -1,0 +1,64 @@
+{
+ "date": "2026-10-28",
+ "home_marked": true,
+ "plates": [
+  {
+   "file": "optical_newest.jpg",
+   "raw": "raw/optical_newest.png",
+   "sensor": "Sentinel-2",
+   "time": "2026-10-27T18:50:12.312000+00:00",
+   "clear": 0.0,
+   "bounds": [
+    700639.58,
+    5656115.24,
+    706179.58,
+    5658275.24
+   ],
+   "crs": "EPSG:32611"
+  },
+  {
+   "file": "optical_clear.jpg",
+   "raw": "raw/optical_clear.png",
+   "sensor": "Sentinel-2",
+   "time": "2026-10-12T18:50:13.088000+00:00",
+   "clear": 1.0,
+   "bounds": [
+    700639.58,
+    5656115.24,
+    706179.58,
+    5658275.24
+   ],
+   "crs": "EPSG:32611"
+  },
+  {
+   "file": "radar.jpg",
+   "raw": "raw/radar.png",
+   "sensor": "Sentinel-1",
+   "label": "Sentinel-1 VV 24 Oct 2026 01:21 UTC",
+   "bounds": [
+    279932.47,
+    5656668.15,
+    285482.47,
+    5658848.15
+   ],
+   "crs": "EPSG:32612"
+  },
+  {
+   "file": "change.jpg",
+   "sensor": "Change read",
+   "label": "optical red \u00b7 radar cyan"
+  }
+ ],
+ "thermal_24h": 0,
+ "read": {
+  "headline": "Localised change flagged \u2014 see blocks.",
+  "bullets": [
+   "No new clear optical pass since the last read; Optical: 14 of 1096 100 m blocks changed between 2026-09-22 and 2026-10-12; largest patch 3 ha, 1.2 km S of the Lair near Bessborough Drive SW.",
+   "Optical patches: O1 1.2 km S (Bessborough Drive SW), 3 ha; O2 4.5 km E (22 Avenue SW), 2 ha; O3 4.2 km E (18 Avenue SW), 1 ha; O4 1.4 km E (20 Avenue SW), 1 ha; O5 1.9 km E (26 Avenue SW), 1 ha.",
+   "Radar: 1 block changed by more than 3 dB (0 brighter, 1 darker) between 2026-10-12 and 2026-10-24; strongest patch 2.3 km E of the Lair near 30 Avenue SW (-3.0 dB). Brighter usually means new hard structure, scaffolding, vehicles or wet ground; darker means something removed or smoother/drier surface.",
+   "Radar patches: R1 2.3 km E (30 Avenue SW), -3.0 dB.",
+   "Weather, last 7 days: -6 to 20 \u00b0C, 14.4 mm precipitation incl. 7.4 cm snow; max gust 66 km/h.",
+   "Thermal: 0 satellite fire detections in the box in the last 24 h."
+  ]
+ }
+}
