@@ -1,0 +1,202 @@
+{
+ "date": "2026-10-29",
+ "kind": "Daily read (automated)",
+ "generated_utc": "2026-10-29T23:41+00:00",
+ "optical": {
+  "newest_clear": "2026-10-12T18:50+00:00",
+  "scene": "S2B_11UPS_20261012_0_L2A",
+  "clear": 1.0,
+  "clear_scl": 1.0,
+  "cloud_mask": "scl+cloudmask-1",
+  "snow_cover": 0.013,
+  "ndvi_mean": 0.333,
+  "sun_elevation": 30.9464013614257,
+  "compared_with": "2026-09-22T18:50+00:00",
+  "gap_days": 19,
+  "snow_cover_before": 0.0,
+  "blocks_compared": 1091,
+  "blocks_changed": 10,
+  "clusters": [
+   {
+    "id": "O1",
+    "r": 20.0,
+    "c": 11.0,
+    "blocks": 3,
+    "area_ha": 3,
+    "lat": 51.02212,
+    "lon": -114.12264,
+    "from_lair": "1.2 km S",
+    "near": "Bessborough Drive SW"
+   },
+   {
+    "id": "O2",
+    "r": 2.0,
+    "c": 48.0,
+    "blocks": 1,
+    "area_ha": 1,
+    "lat": 51.03698,
+    "lon": -114.06893,
+    "from_lair": "4.2 km E",
+    "near": "18 Avenue SW"
+   },
+   {
+    "id": "O3",
+    "r": 10.0,
+    "c": 26.0,
+    "blocks": 1,
+    "area_ha": 1,
+    "lat": 51.03057,
+    "lon": -114.10072,
+    "from_lair": "1.9 km E",
+    "near": "26 Avenue SW"
+   },
+   {
+    "id": "O4",
+    "r": 13.0,
+    "c": 13.0,
+    "blocks": 1,
+    "area_ha": 1,
+    "lat": 51.02834,
+    "lon": -114.1194,
+    "from_lair": "0.7 km SE",
+    "near": "Richmond Road SW"
+   },
+   {
+    "id": "O5",
+    "r": 17.0,
+    "c": 39.0,
+    "blocks": 1,
+    "area_ha": 1,
+    "lat": 51.02383,
+    "lon": -114.0826,
+    "from_lair": "3.3 km E",
+    "near": "34 Avenue SW"
+   }
+  ]
+ },
+ "radar": {
+  "newest": "2026-10-29T01:29+00:00",
+  "compared_with": "2026-10-17T01:29+00:00",
+  "orbit": 20,
+  "blocks_compared": 1155,
+  "blocks_changed": 3,
+  "brighter": 1,
+  "darker": 2,
+  "clusters": [
+   {
+    "id": "R1",
+    "r": 1.0,
+    "c": 29.0,
+    "blocks": 1,
+    "db": -3.1,
+    "lat": 51.03855,
+    "lon": -114.09594,
+    "from_lair": "2.4 km E",
+    "near": "16 Avenue SW"
+   },
+   {
+    "id": "R2",
+    "r": 8.0,
+    "c": 49.0,
+    "blocks": 1,
+    "db": -4.2,
+    "lat": 51.03155,
+    "lon": -114.06785,
+    "from_lair": "4.2 km E",
+    "near": "24 Avenue SW"
+   },
+   {
+    "id": "R3",
+    "r": 11.0,
+    "c": 15.0,
+    "blocks": 1,
+    "db": 3.9,
+    "lat": 51.03006,
+    "lon": -114.11644,
+    "from_lair": "0.8 km E",
+    "near": "26 Avenue SW"
+   }
+  ]
+ },
+ "weather": {
+  "days": [
+   {
+    "date": "2026-10-22",
+    "tmax": 19.7,
+    "tmin": 2.7,
+    "precip": 0.0,
+    "snow_cm": 0.0,
+    "gust": 21.6
+   },
+   {
+    "date": "2026-10-23",
+    "tmax": 8.4,
+    "tmin": -0.6,
+    "precip": 9.6,
+    "snow_cm": 3.99,
+    "gust": 65.9
+   },
+   {
+    "date": "2026-10-24",
+    "tmax": 2.1,
+    "tmin": -3.3,
+    "precip": 1.7,
+    "snow_cm": 1.19,
+    "gust": 31.3
+   },
+   {
+    "date": "2026-10-25",
+    "tmax": 0.6,
+    "tmin": -2.6,
+    "precip": 1.2,
+    "snow_cm": 0.84,
+    "gust": 37.4
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 2.7,
+    "tmin": -1.4,
+    "precip": 0.0,
+    "snow_cm": 0.0,
+    "gust": 36.7
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 4.6,
+    "tmin": -1.0,
+    "precip": 0.4,
+    "snow_cm": 0.28,
+    "gust": 32.4
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 0.4,
+    "tmin": -7.0,
+    "precip": 1.5,
+    "snow_cm": 1.05,
+    "gust": 35.3
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": -2.4,
+    "tmin": -7.3,
+    "precip": 0.0,
+    "snow_cm": 0.0,
+    "gust": 16.9
+   }
+  ],
+  "snow_depth_m": 0.01
+ },
+ "night_lights": null,
+ "thermal_24h": 0,
+ "headline": "Localised change flagged \u2014 see blocks.",
+ "bullets": [
+  "No new clear optical pass since the last read; Optical: 10 of 1091 100 m blocks changed between 2026-09-22 and 2026-10-12; largest patch 3 ha, 1.2 km S of the Lair near Bessborough Drive SW.",
+  "Optical patches: O1 1.2 km S (Bessborough Drive SW), 3 ha; O2 4.2 km E (18 Avenue SW), 1 ha; O3 1.9 km E (26 Avenue SW), 1 ha; O4 0.7 km SE (Richmond Road SW), 1 ha; O5 3.3 km E (34 Avenue SW), 1 ha.",
+  "Radar: 3 blocks changed by more than 3 dB (1 brighter, 2 darker) between 2026-10-17 and 2026-10-29; strongest patch 2.4 km E of the Lair near 16 Avenue SW (-3.1 dB). Brighter usually means new hard structure, scaffolding, vehicles or wet ground; darker means something removed or smoother/drier surface.",
+  "Radar patches: R1 2.4 km E (16 Avenue SW), -3.1 dB; R2 4.2 km E (24 Avenue SW), -4.2 dB; R3 0.8 km E (26 Avenue SW), +3.9 dB.",
+  "Weather, last 7 days: -7 to 8 \u00b0C, 14.4 mm precipitation incl. 7.4 cm snow; max gust 66 km/h.",
+  "Thermal: 0 satellite fire detections in the box in the last 24 h."
+ ],
+ "plate": "change.jpg"
+}
