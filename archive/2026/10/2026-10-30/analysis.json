@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
  "kind": "Daily read (automated)",
- "generated_utc": "2026-10-30T21:10+00:00",
+ "generated_utc": "2026-10-30T23:24+00:00",
  "optical": {
   "newest_clear": "2026-10-12T18:50+00:00",
   "scene": "S2B_11UPS_20261012_0_L2A",
@@ -178,7 +178,7 @@
    },
    {
     "date": "2026-10-30",
-    "tmax": 0.7,
+    "tmax": 0.8,
     "tmin": -2.2,
     "precip": 0.0,
     "snow_cm": 0.0,
